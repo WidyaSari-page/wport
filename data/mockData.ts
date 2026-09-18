@@ -86,3 +86,9 @@ export const tracks = [
   }
 ];
 
+export const socialLinks = [
+  { name: 'Instagram', icon: Camera, url: 'https://instagram.com/_widyassaaa', color: 'hover:border-blue-500/50 hover:text-blue-500' },
+  { name: 'LinkedIn', icon: Briefcase, url: 'https://www.linkedin.com/in/widya-sari-20b100421/', color: 'hover:border-blue-500/50 hover:text-blue-500' },
+  { name: 'GitHub', icon: Code, url: 'https://github.com/WidyaSari-page', color: 'hover:border-blue-500/50 hover:text-blue-500' },
+  { name: 'Email', icon: Mail, url: 'mailto:reallywidya10425@gmail.com', color: 'hover:border-blue-500/50 hover:text-blue-500' }
+];
